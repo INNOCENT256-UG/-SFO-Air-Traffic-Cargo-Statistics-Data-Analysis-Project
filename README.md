@@ -9,6 +9,7 @@
 > **Transforming 26 years of raw SFO cargo operational data into actionable business intelligence — enabling data-driven decisions for airport operations, airline partnerships, and cargo route optimization.**
 
 ---
+![Charts](Charts/Cargo_Type_Composition.png) 
 
 ## 🎯 Business Problem & Solution
 
