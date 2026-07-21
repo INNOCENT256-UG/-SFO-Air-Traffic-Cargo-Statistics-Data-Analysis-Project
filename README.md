@@ -10,7 +10,7 @@
 
 ---
    Codeshare Analysis Chart
-![Charts](Charts/Codeshare_Analysis.png) 
+![Charts](Charts/Codeshare_Analysis.png) ![Charts](Charts/Top5_Airlines_Trends.png)
 
 ## 🎯 Business Problem & Solution
 
