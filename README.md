@@ -5,6 +5,7 @@
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)
+🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
 
 > **Transforming 26 years of raw SFO cargo operational data into actionable business intelligence — enabling data-driven decisions for airport operations, airline partnerships, and cargo route optimization.**
 
